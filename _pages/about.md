@@ -6,7 +6,7 @@ subtitle: PhD Candidate in Electrical and Computer Engineering, Stony Brook Univ
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ava.jpg
   image_circular: false
   more_info: >
     <p>Stony Brook University</p>
